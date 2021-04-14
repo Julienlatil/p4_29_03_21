@@ -6,6 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     width: 100%;
+    filter: contrast(1);
 }
 
 a,
@@ -729,7 +730,8 @@ h3 {
     font-size: 15px; 
     color: #000000!important;
 }
-
+.modcolo {color:white!important;
+font-size:23px}
 
 .med-width-whitespace {
     max-width: 800px;
@@ -826,10 +828,7 @@ h4 {
     color: #364577!important;
     border-color: #364577!important;
 }
-h5{
-    color: #fff!important;
-    font-size: 23px;
-}
+
 
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
