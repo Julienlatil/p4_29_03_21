@@ -6,7 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     width: 100%;
-    filter: contrast(1);
+    
 }
 
 a,
@@ -731,7 +731,7 @@ h3 {
     color: #000000!important;
 }
 .modcolo {color:white!important;
-font-size:23px}
+font-size:25px!important}
 
 .med-width-whitespace {
     max-width: 800px;
