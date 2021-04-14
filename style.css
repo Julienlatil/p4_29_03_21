@@ -6,7 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     width: 100%;
-    filter: contrast(1);
 }
 
 a,
@@ -727,11 +726,10 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
-    text-transform: uppercase;
-    font-weight: 700;
+    font-size: 15px; 
     color: #000000!important;
 }
+
 
 .med-width-whitespace {
     max-width: 800px;
@@ -827,6 +825,10 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
+}
+h5{
+    color: #fff!important;
+    font-size: 23px;
 }
 
 .bg-dots-bg {
